@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/my-app/static/css/main.7eada503.css",
+    "main.js": "/my-app/static/js/main.3a9a0eaa.js",
+    "static/css/672.0ec9cf56.chunk.css": "/my-app/static/css/672.0ec9cf56.chunk.css",
+    "static/js/672.68cc98f1.chunk.js": "/my-app/static/js/672.68cc98f1.chunk.js",
+    "static/js/787.28cb0dcd.chunk.js": "/my-app/static/js/787.28cb0dcd.chunk.js",
+    "static/media/avatar.jpg": "/my-app/static/media/avatar.9b06eb5471c780021d1d.jpg",
+    "static/media/364.gif": "/my-app/static/media/364.617ae3ae765f41351e1a.gif",
+    "static/media/logo_react.png": "/my-app/static/media/logo_react.87092d106825b3985d76.png",
+    "static/media/logoVk.svg": "/my-app/static/media/logoVk.b2f444c72dd2362b08d467f3dc732a31.svg",
+    "index.html": "/my-app/index.html",
+    "static/media/logoInstagram.svg": "/my-app/static/media/logoInstagram.6ea22ab1e561d6df957cfdb8bdd36e68.svg",
+    "static/media/deletePost.svg": "/my-app/static/media/deletePost.89647a214037a605147054c08b1bd676.svg",
+    "main.7eada503.css.map": "/my-app/static/css/main.7eada503.css.map",
+    "main.3a9a0eaa.js.map": "/my-app/static/js/main.3a9a0eaa.js.map",
+    "672.0ec9cf56.chunk.css.map": "/my-app/static/css/672.0ec9cf56.chunk.css.map",
+    "672.68cc98f1.chunk.js.map": "/my-app/static/js/672.68cc98f1.chunk.js.map",
+    "787.28cb0dcd.chunk.js.map": "/my-app/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7eada503.css",
+    "static/js/main.3a9a0eaa.js"
+  ]
+}
